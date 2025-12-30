@@ -1,76 +1,89 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Sleem</h1>
-<h3 align="center">Computer Science Student | Cybersecurity Learner | C++ Developer</h3>
+<h1 align="center">
+  Abdelrahman Sleem – GitHub Profile README
+  <br>
+  <a href="https://www.producthunt.com/posts/awesome-github-profiles" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light"
+         alt="Awesome GitHub Profiles"
+         style="width: 200px; height: 44px;" />
+  </a>
+</h1>
 
-<p align="center">
+<div align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-blue" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Learner-red" />
+  <img src="https://img.shields.io/badge/CS50-Graduate-success" />
+
+  <br><br>
+
+  <i>Computer Science Student | C++ & C Programmer | Cybersecurity Learner</i>
+
+  <br><br>
+
   <a href="mailto:abdelrhmansleem998@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/abdelrhman-silem-61050a384/">💼 LinkedIn</a>
-</p>
+</div>
 
-<hr>
+---
 
-<h2>👨‍💻 About Me</h2>
-<p>
-I'm a <strong>Computer Science student</strong> at the Faculty of Computers & Information.
-I have a strong foundation in programming and a growing passion for <strong>Cybersecurity</strong> and <strong>secure software development</strong>.
-</p>
+## 👨‍💻 About Me
+I'm **Abdelrahman Sleem**, a Computer Science student at the Faculty of Computers & Information.  
+I have a strong foundation in programming and a growing passion for **Cybersecurity** and **secure software development**.
 
-<p>
-I have completed <strong>CS50 (Harvard)</strong> and I’m continuously learning through practice, projects, and hands-on labs.
-</p>
+I have completed **CS50 (Harvard)** and I’m continuously improving my skills through practice and projects.
 
-<hr>
+---
 
-<h2>🛠️ Technical Skills</h2>
+## 🛠️ Technical Skills
 
-<h3>Programming Languages</h3>
-<ul>
-  <li>C++ (OOP, Problem Solving, Data Structures)</li>
-  <li>C (Pointers, Memory Management)</li>
-</ul>
+### Programming Languages
+- C++ (OOP, Problem Solving, Data Structures)
+- C (Pointers, Memory Management)
 
-<h3>Web Development</h3>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-</ul>
+### Web Development
+- HTML5
+- CSS3
 
-<h3>Databases</h3>
-<ul>
-  <li>SQL (Queries, Joins, Database Fundamentals)</li>
-</ul>
+### Databases
+- SQL (Queries, Joins, Database Fundamentals)
 
-<h3>Cybersecurity</h3>
-<ul>
-  <li>Cybersecurity Fundamentals</li>
-  <li>Web Security Basics</li>
-  <li>Secure Coding Principles</li>
-  <li>Penetration Testing (Beginner)</li>
-</ul>
+### Cybersecurity
+- Cybersecurity Fundamentals
+- Web Security Basics
+- Secure Coding Principles
+- Penetration Testing (Beginner)
 
-<hr>
+---
 
-<h2>📚 Courses & Learning</h2>
-<ul>
-  <li>✅ CS50 – Introduction to Computer Science (Harvard)</li>
-  <li>Cybersecurity Fundamentals</li>
-  <li>SQL & Databases</li>
-</ul>
+## 📚 Courses & Learning
+- ✅ CS50 – Introduction to Computer Science (Harvard)
+- Cybersecurity Fundamentals
+- SQL & Databases
 
-<hr>
+---
 
-<h2>📂 Projects</h2>
-<p><em>Projects will be added soon.</em></p>
-<ul>
-  <li>C / C++ Practice Programs</li>
-  <li>HTML & CSS Mini Projects</li>
-  <li>SQL Database Exercises</li>
-  <li>Cybersecurity Labs & Notes</li>
-</ul>
+## 📂 Projects
+> Projects will be added soon.
 
-<hr>
+- C / C++ Practice Programs
+- HTML & CSS Mini Projects
+- SQL Database Exercises
+- Cybersecurity Labs & Notes
 
-<h2>🎯 Career Goals</h2>
-<ul>
-  <li>Cybersecurity Engineer / Penetration Tester</li>
-  <li>Secure Software Developer</li>
-  <li>Contribute to Open
+---
+
+## 🎯 Career Goals
+- Cybersecurity Engineer / Penetration Tester
+- Secure Software Developer
+- Contribute to Open Source Projects
+
+---
+
+## 📫 Contact
+- 📧 Email: <a href="mailto:abdelrhmansleem998@gmail.com">abdelrhmansleem998@gmail.com</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/abdelrhman-silem-61050a384/">abdelrhman-silem</a>
+
+---
+
+<p align="center"><strong>⭐ Thanks for visiting my GitHub profile!</strong></p>
